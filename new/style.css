@@ -153,6 +153,11 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
+img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
@@ -342,6 +347,10 @@ a:hover {
     border: 0px;
 }
 
+.text {
+    font-size: 18px;
+
+}
 .navbar-toggle:hover {
     background: transparent!important;
 }
@@ -676,9 +685,7 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
+
 
 .tight-width-whitespace {
     max-width: 600px;
