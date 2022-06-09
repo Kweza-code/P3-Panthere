@@ -773,6 +773,9 @@ h4 {
     background-color: #FFFFFF;
 }
 
+.para {
+  color: #FFFFFF!important;
+}
 .bgc-dark-slate-blue {
     background-color: #364577;
 }
@@ -782,11 +785,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #2e006c;
     color: #FFFFFF!important;
 }
 
