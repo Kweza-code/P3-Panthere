@@ -153,10 +153,7 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
-img {
-    width: 300px;
-    margin: auto;
-}
+
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
@@ -831,7 +828,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation\ \(1\).webp");
 }
 
 @media (max-width: 1024px) {
