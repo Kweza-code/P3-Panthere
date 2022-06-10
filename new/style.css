@@ -153,6 +153,10 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
+img {
+    width: 300px;
+    margin: auto;
+}
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
@@ -823,7 +827,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere\ \(1\).webp");
 }
 
 .bg-presentation {
