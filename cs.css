@@ -1,0 +1,24 @@
+.lien {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.lien a {
+    padding: 6px 12px;
+    border-radius: 40px;
+     display: flex;
+    text-align: center;
+    cursor: pointer;
+    background: #2e006c;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
